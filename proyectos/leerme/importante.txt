@@ -1,0 +1,7 @@
+Dependencias a instalar:
+
+# pip install opencv-python face-recognition numpy
+# pip install dlib
+# pip install cmake face-recognition
+
+copilador de "C++"	
